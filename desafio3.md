@@ -1,5 +1,13 @@
 ## Desafio 3
 
+### Resolução
+
+[Desafio 3](/src/desafio3.ts)
+
+<br>
+
+### Enunciado
+
 O código abaixo tem alguns erros e não funciona como deveria. Você pode identificar quais são e corrigi-los em um arquivo TS?
 
 let botaoAtualizar = document.getElementById('atualizar-saldo');

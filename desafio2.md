@@ -1,5 +1,13 @@
 ## Desafio 2
 
+### Resolução
+
+[Desafio 2](/src/desafio2.ts)
+
+<br>
+
+### Enunciado
+
 Como podemos melhorar o esse código usando TS?
 
 let pessoa1 = {};
